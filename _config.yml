@@ -1,5 +1,5 @@
-title: 'b2a3e8.github.io'
-description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+title: 'Dr. Nakamoto'
+description: "Insane inventor, creating beyond imagination."
 baseurl: "/drnakamoto"
 url: "https://drnakamoto.github.io/"
 
@@ -15,4 +15,4 @@ footer: 'follow <a href="https://twitter.com/">twitter</a> <a href="https://twit
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console

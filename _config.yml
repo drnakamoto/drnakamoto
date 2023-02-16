@@ -15,4 +15,4 @@ footer: 'follow <a href="https://twitter.com/">twitter</a> <a href="https://twit
 
 # Build settings
 markdown: kramdown
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: drnakamoto/jekyll-theme-console
